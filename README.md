@@ -12,12 +12,16 @@ git, kubernetes etc.</p>
 <li> Images, Containers </li>
 <li> Architecture of a docker container </li>
 <li> Docker Image, network </li>
-<li> Installation </li>
+<li> Installation: <a href = "https://docs.docker.com/desktop/">docker desktop</a>, 
+<a href = "https://docs.docker.com/engine/install/">docker engine</a> </li>
 
 </br>
 <b> &nbsp;Code Examples </b>
 <li> Simple python api server </li>
-<li> Database: <a href="https://github.com/adarshjhaa100/devops-resources/tree/master/Docker/Database/mysql"> mysql </a>, mssql, postgres, mongodb etc. </li>
+<li> Database: <a href="https://github.com/adarshjhaa100/devops-resources/tree/master/Docker/Database/mysql">mysql </a>, 
+&nbsp;mssql, 
+&nbsp;postgres, 
+&nbsp;mongodb etc. </li>
 <li> API: spring-boot, expressjs </li>
 <li> UI: React Application </li>
 <li> NGINX Setup for API, UI reverse proxy and load balancing </li>

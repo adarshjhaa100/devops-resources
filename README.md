@@ -3,9 +3,8 @@
 git, kubernetes etc.</p>
 
 
-<h4> Concepts to be added: </h4>
-
-<h4> Docker </h4>
+<h3> Docker </h3>
+</br>
 <b> Introduction and architecture </b>
 <li> What is docker? </li>
 <li> Features </li>

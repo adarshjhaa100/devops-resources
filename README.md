@@ -18,7 +18,7 @@ git, kubernetes etc.</p>
 </br>
 <b> Code Examples </b>
 <li> Simple python api server </li>
-<li> Databases: mysql, mssql, postgres, mongodb etc. </li>
+<li> Databases: <a href="https://github.com/adarshjhaa100/devops-resources/tree/master/Docker/Database/mysql"> mysql </a>, mssql, postgres, mongodb etc. </li>
 <li> API: spring-boot, expressjs </li>
 <li> UI: React Application </li>
 <li> NGINX Setup for API, UI reverse proxy and load balancing </li>
